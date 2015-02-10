@@ -4,5 +4,7 @@
     <string name="app_name">Prac1</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="submitButton">Submit</string>
+    <string name="hint">Fill this textbox</string>
 
 </resources>
